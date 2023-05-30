@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+    <img src="page/BG.jpeg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> Djalega++
 </h1>
 
 <p align="center"> 
