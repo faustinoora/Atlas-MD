@@ -121,7 +121,7 @@ Konnichiwa Senpai, I am "Djalega++" an Opensource WhatsApp bot made by <a href="
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/faustinoora/Atlas-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
