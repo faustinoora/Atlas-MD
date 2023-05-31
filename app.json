@@ -1,6 +1,7 @@
 {
     
     "name": "Atlas-MD",
+    "version":"3.5.0"
     "description": "The Future of WhatsApp bots.",
     "keywords": [
         "bot",
