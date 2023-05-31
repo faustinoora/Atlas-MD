@@ -1,4 +1,4 @@
-FROM node:lts-buster
+FROM node:lastest
 
 RUN apt-get update && \
   apt-get install -y \
