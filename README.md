@@ -46,8 +46,8 @@ Konnichiwa Senpai, I am "Djalega++" an Opensource WhatsApp bot made by <a href="
 ---
  <br>
  
- # 🧩 Deploy Atlas
-     
+ # 🧩 Deployer Atlas
+     lire attentivement ce quivient ci-dessous 
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
  
