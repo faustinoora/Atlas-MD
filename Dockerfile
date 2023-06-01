@@ -10,6 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
+RUN git clone https://github.com/faustinoora/Atlas-MD
 
 RUN yarn install
 
